@@ -1,0 +1,17 @@
+*.pkl
+*.xlsx
+*.txt
+*.aux
+*.bz2
+*.gz
+*.fdb_latexmk
+*.tex
+*.fls
+*.jpg
+*.jpeg
+*.pgf
+*.sh
+*.pdf
+*.html
+*.htm
+*.log
